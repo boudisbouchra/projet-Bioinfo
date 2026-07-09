@@ -1,4 +1,4 @@
-`# projet-Bioinfo
+# projet-Bioinfo
 
 ## Description et documentation du jeu de données (Metadata)
 
@@ -17,4 +17,4 @@ Pandas.
 Structure prévue pour le fichier `sequences_adn.csv` :
 - `id_sequence` : Identifiant unique de la séquence d'ADN
 - `organisme` : Nom de l'organisme d'origine
-- `sequence` : Chaîne de caractères contenant la suite de nucléotides (A, T, C, G)`
+- `sequence` : Chaîne de caractères contenant la suite de nucléotides (A, T, C, G)
